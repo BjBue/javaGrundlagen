@@ -29,7 +29,30 @@ public class sandbox {
 	
 	public static void main (String[] args) {
 
-		testing();
+		
+		
+		
+		
+		
+		//testing();
+		
+/* testing eingaben
+		System.out.println("Name: ?");
+		
+		String name = new java.util.Scanner(System.in).nextLine();
+		
+		System.out.println("Alter: ?");
+		
+		int age = new java.util.Scanner( System.in ).nextInt();
+		
+		System.out.println("eine Fliesskomazahl: ?");
+		
+		double value = new java.util.Scanner(System.in).nextDouble();
+		
+		System.out.println( "Dein Name: " + name + " Dein Alter: " + age + " Deine Zahl : "+ value );
+		
+*/		
+		
 		
 		
 /*		//arrays und so
